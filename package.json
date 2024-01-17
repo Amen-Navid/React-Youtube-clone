@@ -1,7 +1,7 @@
 {
   "name": "youtube_project",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
   "dependencies": {
     "@material-ui/core": "^4.12.4",
     "@mui/material": "^5.15.2",
